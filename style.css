@@ -10,7 +10,9 @@
     background-color: white;
     border: 1px solid gray;
     border-radius: 3%;
-    width: 300px;
+    width: 90%;
+    max-width: 300px;
+
     margin-left: 40vw;
     margin-top: 20px;
     padding: 20px;
